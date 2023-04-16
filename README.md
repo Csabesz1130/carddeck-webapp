@@ -1,2 +1,2 @@
 # carddeck-webapp
-A simple dynamic webapp for studíing using flashcards
+A simple dynamic webapp for studying using flashcards
